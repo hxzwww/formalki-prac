@@ -1,1 +1,1 @@
-# formalki-prac
+earley algo
